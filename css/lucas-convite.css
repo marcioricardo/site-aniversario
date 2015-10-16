@@ -1,0 +1,139 @@
+.topo{
+	
+	background: #8bd3e8;
+	background: url("../img/bg.gif");
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+.menu{
+	display: inline-block;
+}
+.titulos{
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-weight: bold;
+}
+.tarja{
+	padding: 0.5em;
+	background-color: white;	
+}/* #194d72 #99ca40 843CB5 CC0202 */
+.faixa1{
+	background: #99ca40;
+	position: relative;
+}
+.faixa2{
+	background: #5BC1DF;
+	position: relative;
+}
+.faixa3{
+	background: #E7A801;
+}
+.faixa4{
+	background: #CC0202;
+}
+.faixa5{
+	background: #843CB5;
+}
+.faixa6{
+	background: #194d72;
+}
+.faixa7{
+	background: #5BC1DF;
+}
+.caixa-texto{
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+.caixa-texto p{
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.5em
+}
+.caixa-texto ul li{
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.5em
+}
+.caixa-texto p a{
+	color: white;
+	text-decoration: underline;
+}
+.caixa-texto h2{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5em;
+	margin-top: 1.5em;
+	margin-bottom: 0.75em;
+}
+.citacao{
+	margin-bottom: 1.5em;
+}
+.citacao blockquote{
+	font-size: 2.25em;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+.citacao blockquote small{
+	font-size: 0.65em;
+	margin-top: 0.5em;
+	color: white;
+}
+.imagem-circular{
+	border: solid white 0.5em;
+	margin-bottom: 4em;
+	margin-top: 4em;
+}
+.btn{
+	font-family: 'Montserrat', sans-serif;
+	color: #194d72;
+	font-weight: bold;
+	margin-top: 0.75em;
+	margin-left: 2.7em;
+	margin-right: 2.7em;
+}
+.titulos{
+	font-size: 3.5em;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-weight: bold;
+}
+.quadro{
+	margin: 2em auto;
+}
+.glyphicon-upload{
+	margin: 0.5em 0;
+	color: white;
+	font-size: 4em
+}
+.rodape{
+	background: white;
+	color: #194d72;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+.texto-rodape-contato{
+	margin: 4em 0;
+}
+.formigas{
+	margin-top: 9em;
+}
+.faixa-final{
+	padding: 2em 0;
+	background: #99ca40;
+}
+.glyphicon-menu-hamburger{
+	font-size: 1.5em;
+	color: red;
+}
+.encolhido li{
+	clear: left;
+}
+.text-center .img-responsive{
+	margin: 0 auto;
+}
+.mapa{
+	width: 1280px;
+	height: 640px;
+}
